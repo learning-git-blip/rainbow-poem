@@ -1,4 +1,4 @@
-violet 
+violet is being appended
 indigo
 blue
 green 
