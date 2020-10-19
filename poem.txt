@@ -5,7 +5,7 @@ Blue is changed
 unicorn
 maroon
 yellow
-orange
+orange is a fruit
 red
 unicorn
 Rainbow is so beautifull.
