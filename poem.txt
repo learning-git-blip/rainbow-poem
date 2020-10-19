@@ -1,7 +1,7 @@
 violet is being appended
-indigo is chaned by unicorn 
-blue is changed by unicorn
-green 
+indigo
+blue
+green is changed by pony
 yellow
 orange is changed by pony
 red is changed by pony
