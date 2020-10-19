@@ -5,3 +5,4 @@ green is changed by pony
 yellow
 orange is changed by pony
 red is changed by pony
+Rainbow is formed by scattering of light.
