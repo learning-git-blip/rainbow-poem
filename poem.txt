@@ -3,5 +3,5 @@ indigo
 blue
 green 
 yellow
-orange
-red
+orange is changed by pony
+red is changed by pony
