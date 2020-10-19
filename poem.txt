@@ -5,7 +5,7 @@ Blue is changed
 unicorn
 Green
 yellow
-orange
+orange is a color
 red
 unicorn
 Rainbow is so beautifull.
